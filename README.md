@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felipeneri511
-- 👀 I’m interested in  aprender html
+- 👀 I’m interested in  learn html
 - 🌱 I’m currently learning  HTML5 e CSS3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
